@@ -13,7 +13,7 @@ The main learnings from this project are as follows:
 
 2. **Data Transformation and Cleaning:** Transform the data into a suitable format for analysis and perform necessary cleaning steps. This includes handling missing values, encoding categorical variables, and scaling numerical features.
 
-**3**. **Machine Learning Regression Algorithms:** Apply various machine learning regression algorithms to predict the selling price of industrial copper. Compare the performance of algorithms such as linear regression, decision trees, random forests, or gradient boosting.
+3. **Machine Learning Regression Algorithms:** Apply various machine learning regression algorithms to predict the selling price of industrial copper. Compare the performance of algorithms such as linear regression, decision trees, random forests, or gradient boosting.
 
 4. **Machine Learning Classification Algorithms:** Apply different machine learning classification algorithms to predict the status (won or lost) of copper transactions. Explore algorithms such as logistic regression, support vector machines, or random forests to classify the outcomes.
 
@@ -32,3 +32,6 @@ The main learnings from this project are as follows:
 5. **Machine Learning Classification:** Apply different machine learning classification algorithms to predict the status (won or lost) of copper transactions. Split the dataset into training and testing sets, train the models, and evaluate their performance using metrics such as accuracy, precision, and recall.
 
 6. **Documentation**: Prepare a comprehensive documentation summarizing the steps involved in the analysis, including the preprocessing techniques, machine learning algorithms used, and their performance. Include visualizations and interpretations to effectively communicate the results.
+
+**Conclusion**
+The Industrial Copper Modeling project aims to predict the selling price and status in the industrial copper market using machine learning techniques.
